@@ -10,4 +10,4 @@ Version de Java: 11
 
 Version de Maven: 3.6.0
 
-Vous pouvez changer le port de l'application en changeant la valeur server.port dans le fichier src/main/resources/application.properties
+Vous pouvez changer le port de l'application en changeant la valeur **server.port** dans le fichier src/main/resources/**application.properties**
